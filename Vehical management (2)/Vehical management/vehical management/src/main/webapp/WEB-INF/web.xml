@@ -1,0 +1,17 @@
+<web-app>
+
+  <display-name>EmpSite</display-name>
+  <context-param>
+    <param-name>dbName</param-name>
+    <param-value>empsite</param-value>
+  </context-param>
+    <context-param>
+    <param-name>dbUserName</param-name>
+    <param-value>root</param-value>
+  </context-param>
+    <context-param>
+    <param-name>dbPassword</param-name>
+    <param-value></param-value>
+  </context-param>
+  
+</web-app>
